@@ -1,23 +1,7 @@
-Personal acess Token: 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
-username:rajeshravula970
-email:rajeshravula970@gmail.com
+ 
+ 
 GitHub-Recivery-codes:
-8f870-aec20
-bbd2e-35234
-a0ac6-be1de
-22adc-61074
-b6b40-57738
-c07d0-82bb8
-a53a1-be677
-adbee-14b76
-389a8-17a09
-909b0-e5050
-69584-16997
-711b1-52ad0
-88068-d89d4
-ea812-0fa90
-91596-e4742
-99499-6bc25
+ 
 https://github.com/
-rajeshravula970
+
 
